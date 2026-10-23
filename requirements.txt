@@ -1,0 +1,6 @@
+genlayer-py>=0.16
+genlayer-test>=0.29
+genvm-linter @ git+https://github.com/genlayerlabs/genvm-linter@main
+cloudpickle>=3.0
+eth-account>=0.13.3
+pytest>=8
